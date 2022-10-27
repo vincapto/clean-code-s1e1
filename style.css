@@ -136,7 +136,7 @@
 }
 
 .task-item>    input[type="text"] {
-    width: 226px
+    width: 226px;
 }
 
 .button.delete .delete-img {
@@ -152,14 +152,14 @@
 /* Completed */
 
 .list#completed-tasks .label {
-    text-decoration: line-through
+    text-decoration: line-through;
     color: #888;
 }
 
 /* Edit Task */
 
 .list .task-item .input {
-    display: none
+    display: none;
 }
 
 .list .task-item.editMode .input {
